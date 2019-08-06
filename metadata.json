@@ -1,0 +1,7 @@
+{
+   "itemDisplayName": "Create an Azure Analysis Services server using a template",
+   "description": "This template creates an Azure Analysis Services server.",
+   "summary": "Create an Azure Analysis Services server.",
+   "author": "ambig.one/2",
+   "dateUpdated": "2019-08-06"
+}
